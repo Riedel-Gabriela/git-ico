@@ -38,6 +38,8 @@ DESCRIPTION
 
      When invoked as sudoedit, the -e option (described below), is implied.
 
+     BLABLAELBAEKLLEKABLKBEKLAHHNHURBNUSDGVZBVCBXUZHVUIZXH BOBAJADA
+
      Security policies and audit plugins may log successful and failed attempts to run sudo.  If an I/O plugin is con‐
      figured, the running command's input and output may be logged as well.
 
